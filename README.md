@@ -30,9 +30,9 @@
 Приятной игры в Flappy Bird!
 
 ## Скриншоты
-## Стартовый экран
+**Стартовый экран**
 ![image](https://github.com/s0oosauge/FlappyBird-sfml/assets/135156093/a2a6c1e9-4977-4e71-9ac6-adec9088d904)
 
-## Игровой процесс
+**Игровой процесс**
 ![image](https://github.com/s0oosauge/FlappyBird-sfml/assets/135156093/3b5dac96-e7c4-446b-8d8a-efd7c0abdc8d)
 
